@@ -151,12 +151,13 @@
         },
         {
             "name": "David Regan",
-            "linkedIn_url": null,
-            "personal_site": null,
-            "github_url": null,
+            "linkedIn_url": "https://www.linkedin.com/in/david-regan-88bb2014a/",
+            "personal_site": "https://dregan35.github.io/Portfolio/",
+            "github_url": "https://github.com/dregan35",
             "pro_img": "../images/davidregan.jpg",
             "fun_img": "../images/davidreganFun.jpg",
-            "about_me": null,
+            "about_me": "I have had the passion to solve problems since I was a small child and that passion grew once I was introduced to technology. I revel in the opportunities computer software and hardware present me, whether it's soldiering points on a printed circuit board or creating an awesome application. I'm a proud graduate from Nashville Software School where I was given the opportunity to use the latest technologies in the industry. My time at NSS filled me with a love for coding that grows everyday and makes me better developer.
+",
             "soundcloud_url": null
         },
         {
